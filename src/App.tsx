@@ -1,4 +1,3 @@
-import React from 'react';
 import Fridge from './Fridge';
 
 function App() {
